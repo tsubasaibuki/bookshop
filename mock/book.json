@@ -1,0 +1,93 @@
+[{
+  "bookCover": "F:/funtest/homework/funtest/mock/.pi1.jpg",
+  "bookName": "错误书籍",
+  "bookInfo": "错误书籍",
+  "bookPrice": 20,
+  "bookId": 2
+}, {
+  "bookCover": "http://img0.imgtn.bdimg.com/it/u=3799789790,53611174&fm=26&gp=0.jpg",
+  "bookName": "BEAUTY",
+  "bookInfo": "TOP13",
+  "bookPrice": 30,
+  "bookId": 3
+}, {
+  "bookCover": "http://img1.imgtn.bdimg.com/it/u=230944794,3265029289&fm=26&gp=0.jpg",
+  "bookName": "CGWORLD",
+  "bookInfo": "TOP12",
+  "bookPrice": 40,
+  "bookId": 4
+}, {
+  "bookCover": "http://img1.imgtn.bdimg.com/it/u=1096860091,3306041434&fm=26&gp=0.jpg",
+  "bookName": "书4",
+  "bookInfo": "TOP11",
+  "bookPrice": 50,
+  "bookId": 5
+}, {
+  "bookCover": "http://img0.imgtn.bdimg.com/it/u=1132549106,1251371986&fm=26&gp=0.jpg",
+  "bookName": "FINE",
+  "bookInfo": "TOP10",
+  "bookPrice": 60,
+  "bookId": 6
+}, {
+  "bookCover": "http://img5.imgtn.bdimg.com/it/u=3530860769,759305064&fm=26&gp=0.jpg",
+  "bookName": "Im@s",
+  "bookInfo": "TOP9",
+  "bookPrice": 703,
+  "bookId": 7
+}, {
+  "bookCover": "http://img5.imgtn.bdimg.com/it/u=4039710481,192069424&fm=26&gp=0.jpg",
+  "bookName": "BAAAAR",
+  "bookInfo": "TOP8",
+  "bookPrice": 20,
+  "bookId": 8
+}, {
+  "bookCover": "http://img1.imgtn.bdimg.com/it/u=2778405217,287227812&fm=26&gp=0.jpg",
+  "bookName": "More",
+  "bookInfo": "TOP7",
+  "bookPrice": 30,
+  "bookId": 9
+}, {
+  "bookCover": "http://img1.imgtn.bdimg.com/it/u=2608523849,2045516538&fm=26&gp=0.jpg",
+  "bookName": "BAZAAR",
+  "bookInfo": "TOP6",
+  "bookPrice": 703,
+  "bookId": 10
+}, {
+  "bookCover": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2170149331,842991415&fm=26&gp=0.jpg",
+  "bookName": "FINEDAY",
+  "bookInfo": "TOP5",
+  "bookPrice": 703,
+  "bookId": 11
+}, {
+  "bookCover": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3023012028,3805472327&fm=26&gp=0.jpg",
+  "bookName": "侦探",
+  "bookInfo": "TOP4",
+  "bookPrice": 703,
+  "bookId": 12
+}, {
+  "bookCover": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2684249565,1568158789&fm=26&gp=0.jpg",
+  "bookName": "fairystar",
+  "bookInfo": "TOP3",
+  "bookPrice": 703,
+  "bookId": 13
+}, {
+  "bookCover": "http://img4.imgtn.bdimg.com/it/u=3390125402,2138358798&fm=26&gp=0.jpg",
+  "bookName": "NOGUE",
+  "bookInfo": "TOP2",
+  "bookPrice": 703,
+  "bookId": 14,
+  "bookInfoCover": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1798381637,2559757378&fm=26&gp=0.jpg",
+  "bookInfoCover1": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1389062881,2380169390&fm=26&gp=0.jpg",
+  "bookInfoCover2": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1231336322,709117530&fm=26&gp=0.jpg"
+}, {
+  "bookCover": "http://www.egouz.com/uploadfile/2017/1019/20171019124242748055.jpg",
+  "bookName": "fami通",
+  "bookInfo": "TOP1",
+  "bookPrice": 703,
+  "bookId": 15,
+  "booksoso": "《Fami通》杂志是由日本角川书店发行的日语电子游戏杂志",
+  "bookdetail": "《Fami通》杂志是由日本角川书店发行的日语电ss子游戏杂志，该杂志被视为日本最受尊敬的电子游戏新闻杂志，主要发行的杂志版本有周刊Fami通、Fami通PSP+PS3、Fami通Xbox 360、Fami通DS+Wii与Fami通Wave DVD。",
+  "bookInfoCover": "http://localhost:8080/static/1.jpg",
+  "bookInfoCover1": "http://localhost:8080/static/2.jpg",
+  "bookInfoCover2": "http://localhost:8080/static/3.jpg"
+}]
